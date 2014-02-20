@@ -1,0 +1,8 @@
+{
+  "name": "yields-delay",
+  "description": "delay the given `fn`.",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "license": "MIT"
+}
